@@ -2,7 +2,6 @@ package sec02.exam02;
 
 public class FieldInitValue {
 
-	public static void main(String[] args) {
 		byte byteField;
 		short shortField;
 		int intField;
@@ -16,6 +15,5 @@ public class FieldInitValue {
 		
 		int[] arrField;
 		String referenceField;
-	}
 
 }
